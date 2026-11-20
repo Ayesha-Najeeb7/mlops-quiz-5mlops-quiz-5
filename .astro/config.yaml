@@ -1,0 +1,4 @@
+project:
+    name: airflow-quiz-starter
+webserver:
+    port: "8083"
